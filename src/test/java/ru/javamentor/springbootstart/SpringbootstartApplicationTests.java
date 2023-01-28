@@ -1,10 +1,10 @@
-package ru.javamentor.springmvc;
+package ru.javamentor.springbootstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringMvcApplicationTests {
+class SpringbootstartApplicationTests {
 
 	@Test
 	void contextLoads() {
