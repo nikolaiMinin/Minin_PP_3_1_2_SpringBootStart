@@ -1,13 +1,13 @@
-package ru.javamentor.springbootstart;
+package ru.minin.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootstartApplicationTests {
+class SpringBootAppApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
